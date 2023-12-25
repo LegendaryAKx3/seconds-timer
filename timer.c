@@ -80,7 +80,7 @@ int print(int seconds) {
     printf("===================================\n");
     printf("               %d:%d:%d\n", hour, minute, second); 
     printf("===================================\n");
-    return (seconds--);
+    return (seconds - 1);
 }
 
 int timer(int duration){
