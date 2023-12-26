@@ -1,2 +1,2 @@
 # seconds-timer
-Command line timer exclusively using seconds
+Command line timer taking input in only seconds
